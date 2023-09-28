@@ -68,12 +68,12 @@ You can clone the repository using either HTTPS or SSH:
 
 **HTTPS:**
 ```sh
-https://github.com/Kiana8181/gameHub-part2.git
+git clone https://github.com/Kiana8181/gameHub-part2.git
 ```
 
 **SSH:**
 ```sh
-git@github.com:Kiana8181/gameHub-part2.git
+git clone git@github.com:Kiana8181/gameHub-part2.git
 ```
 
 <br/>
