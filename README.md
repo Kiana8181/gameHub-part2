@@ -59,7 +59,6 @@ Make sure you have the following prerequisites installed on your system:
 
 - node v19.5.0
 - npm (Python package manager)
-```
 
 ### Installation
 
